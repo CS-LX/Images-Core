@@ -30,3 +30,8 @@
 - 放慢倍率：`1.55`
 - 混响强度：`0.72`
 - 开头旋律：`B3 D4 E4 F#4 A4 F#4 D4 E4 B3 D4 E4 F#4 A4 A4 B4 E4`
+
+## Additional Example
+
+- `ge-sheng-yu-wei-xiao_broadcast_reverb.ogg`：另一首 MIDI 旋律的机器广播混响版完整输出。
+- `ge-sheng-yu-wei-xiao_broadcast_reverb.ogg.json`：对应 manifest，记录主旋律通道、音符数、参数和开头音符。

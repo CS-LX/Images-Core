@@ -1,0 +1,37 @@
+{
+  "style_algorithm": "midi-broadcast-reverb-v1",
+  "title": "ge-sheng-yu-wei-xiao broadcast reverb",
+  "input": "/workspace/assets/audio/ge-sheng-yu-wei-xiao.mid.ogg",
+  "output": "/workspace/assets/audio/ge-sheng-yu-wei-xiao_broadcast_reverb.ogg",
+  "duration_seconds": 187.699031,
+  "sample_rate": 44100,
+  "random_seed": 7,
+  "melody_channel": 1,
+  "melody_note_count": 217,
+  "available_channels": [
+    1,
+    3,
+    5
+  ],
+  "tempo_bpm": 200.0,
+  "ticks_per_beat": 480,
+  "slow": 1.55,
+  "reverb": 0.72,
+  "lead": "narrow-band mechanical PA speaker tone",
+  "dry_filter_hz": [
+    260,
+    2800
+  ],
+  "speaker_noise_filter_hz": [
+    350,
+    3600
+  ],
+  "reverb_tail_seconds": 8.5,
+  "hum_hz": [
+    50,
+    100
+  ],
+  "first_notes": "B3 B3 D4 E4 F#4 A4 B4 B3 D4 E4 F#4 E4 E4 E4 F#4 A4",
+  "first_midi_numbers": "59 59 62 64 66 69 71 59 62 64 66 64 64 64 66 69",
+  "method": "MIDI note on/off deterministic synthesis; no text_to_music melody generation"
+}
